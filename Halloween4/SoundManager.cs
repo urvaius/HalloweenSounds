@@ -20,8 +20,8 @@ namespace Halloween4
 		String Name;
 		void PlaySound(String name)
 		{
-			this.Name = name;
-			player = MediaPlayer.Create(this, Resource.Raw.eye);
+		//	this.Name = name;
+		//	player = MediaPlayer.Create(this, Resource.Raw.eye);
 
 
 
